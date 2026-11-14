@@ -17,9 +17,7 @@ A continuación se enlistan las prácticas de la unidad con su respectivo enlace
 - Práctica 2. [Nombre de Práctica 2](Practica%202)
 - Práctica 3. [Nombre de Práctica 3](Practica%203)
 - Práctica 4. [Nombre de Práctica 4](Practica%204)
-  - Práctica 4.1. [Subpráctica](Practica%204.1)
 - Práctica 5. [Nombre de Práctica 5](Practica%205)
-  - Práctica 5.1. [Subpráctica](Practica%205.1)
 
 🛠️ Tecnologías y Entorno
 - **Lenguaje:** Ensamblador (x86 - 32 bits)
